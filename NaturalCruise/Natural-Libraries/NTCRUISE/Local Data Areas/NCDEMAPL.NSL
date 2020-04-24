@@ -35,5 +35,5 @@ DEFINE DATA LOCAL
   2 YACHT-NAME (A30) 
   2 YACHT-TYPE (A30) 
 /*) imported data fields from Data Definition Module NCYACHT 
- 
+/*  
 END-DEFINE 

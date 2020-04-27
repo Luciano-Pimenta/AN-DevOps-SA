@@ -58,7 +58,7 @@
         <SteplibNSV>SYSTEM</SteplibNSV>
         <SteplibExtensions>3;SYSEXDDM[-1,-1];RDCRUISE[-1,-1];CRUISE16[-1,-1];</SteplibExtensions>
         <LibrariesSteplibs/>
-        <privateMode>false</privateMode>
+        <privateMode>true</privateMode>
         <Fuser>(22,20)</Fuser>
     </EnvironmentProperties>
     <AivVariables/>

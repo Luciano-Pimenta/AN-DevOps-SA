@@ -3,6 +3,7 @@
 	<name>NaturalCruise</name>
 	<comment>Natural project</comment>
 	<projects>
+		<project>NaturalCruise-Base</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

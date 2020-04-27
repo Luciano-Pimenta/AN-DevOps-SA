@@ -56,7 +56,7 @@
     </GeneralProperties>
     <EnvironmentProperties>
         <SteplibNSV>SYSTEM</SteplibNSV>
-        <SteplibExtensions>3;SYSEXDDM[-1,-1];RDCRUISE[-1,-1];CRUISE16[-1,-1];</SteplibExtensions>
+        <SteplibExtensions>1;SYSEXDDM[-1,-1];</SteplibExtensions>
         <LibrariesSteplibs/>
         <privateMode>true</privateMode>
         <Fuser>(22,20)</Fuser>

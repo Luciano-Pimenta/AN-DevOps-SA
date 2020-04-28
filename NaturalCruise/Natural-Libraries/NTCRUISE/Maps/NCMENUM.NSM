@@ -18,7 +18,7 @@ INPUT          (     IP=OFF                                           /*
 /
  002T *USER /*.02S008 A008 .
       (AD=OD HE='NCDEMAPH' )
- 025T 'Natural Cruise Planning - DEMO'(U)
+ 025T 'Natural Cruise Planning - MENU'(U)
  071T *TIMX /*.01S008 T    .
       (AD=OD HE='NCDEMAPH' )
 /

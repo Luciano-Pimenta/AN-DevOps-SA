@@ -2,7 +2,7 @@
 * :Mode S
 * :CP ISO_8859-1:1987
 * <Natural Source Header
-* MAP2: PROTOTYPE VERSION 820 --- CREATED BY ONE 9.1.2 ---
+* MAP2: PROTOTYPE VERSION 820 --- CREATED BY ONE 9.1.4 ---
 * INPUT USING MAP 'XXXXXXXX'
 *     #MENU-SELECTION
 DEFINE DATA PARAMETER
@@ -18,7 +18,7 @@ INPUT          (     IP=OFF                                           /*
 /
  002T *USER /*.02S008 A008 .
       (AD=OD HE='NCDEMAPH' )
- 025T 'Natural Cruise Planning - 1043'(U)
+ 025T 'Natural Cruise Planning - 1044'(U)
  071T *TIMX /*.01S008 T    .
       (AD=OD HE='NCDEMAPH' )
 /
